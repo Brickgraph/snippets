@@ -1,5 +1,7 @@
 let
+    // Replace ORG-UID and ENTITY-TYPE with the appropriate values
     ApiUrl = "https://public.brickgraph.io/reports/ORG-UID/relationship/RELATIONSHIP-TYPE",
+    // Replace API-KEY with one of your api keys, available from the Brickgraph app
     ApiKey = "API-KEY",
     Limit = 100,
 

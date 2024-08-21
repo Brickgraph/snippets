@@ -1,5 +1,7 @@
 let
+    // Replace REPORT-CODE with the code, available from the Brickgraph app Reports page
     ApiUrl = "https://public.brickgraph.io/reports/ORG-UID/REPORT-CODE",
+    // Replace API-KEY with one of your api keys, available from the Brickgraph app
     ApiKey = "API-KEY",
     Limit = 100,
 
